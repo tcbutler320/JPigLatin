@@ -1,0 +1,22 @@
+{
+  "name": "jpiglatin",
+  "version": "1.0.0",
+  "description": "A simple javascript package that generates pig latin from plain text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tcbutler320/JPigLatin.git"
+  },
+  "keywords": [
+    "pig-latin"
+  ],
+  "author": "Tyler Butler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tcbutler320/JPigLatin/issues"
+  },
+  "homepage": "https://github.com/tcbutler320/JPigLatin#readme"
+}
