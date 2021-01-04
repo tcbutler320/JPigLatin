@@ -6,7 +6,7 @@ function encode(input,output) {
   for (var i = 0; i < words.length; i += 1) {
       temp = words[i].slice(1);
         if (typeof temp === 'undefined' || typeof words[i][0] === 'undefined') {
-          throw 'Unknown Error!';
+          throw 'Error!';
           break;
         } else {
           answer = answer + (temp.toLowerCase()+words[i][0].toLowerCase()+"ay") + " ";

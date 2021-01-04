@@ -1,7 +1,7 @@
 {
-  "name": "@tcbutler320/jpiglatin",
-  "version": "1.0.3",
-  "description": "A simple javascript package that generates pig latin from plain text",
+  "name": "jpiglatin",
+  "version": "1.0.2",
+  "description": "JPigLatin is a pig-latin translation and speech synthesis package",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,9 +13,6 @@
   "keywords": [
     "pig-latin"
   ],
-  "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
-  },
   "author": "Tyler Butler",
   "license": "ISC",
   "bugs": {
