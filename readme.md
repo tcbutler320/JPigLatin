@@ -4,11 +4,13 @@ JPigLatin is a simple javaScript  package for generating pig latin from plain te
 
 # Installation
 
-1) Via CDN
+1) Via CDN  
 
-`<script src="https://unpkg.com/jpiglatin@1.0.0/index.js"></script>`
+*Replace version with current version, i.e `1.0.3`*
 
-2) Via NPM
+`<script src="https://unpkg.com/jpiglatin@VERSION/index.js"></script>`
+
+1) Via NPM
 
 `npm i jPigLatin -save`
 

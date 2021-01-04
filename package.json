@@ -1,6 +1,6 @@
 {
-  "name": "jpiglatin",
-  "version": "1.0.2",
+  "name": "@tcbutler320/jpiglatin",
+  "version": "1.0.3",
   "description": "A simple javascript package that generates pig latin from plain text",
   "main": "index.js",
   "scripts": {
